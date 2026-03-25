@@ -18,14 +18,6 @@ The project is designed to showcase a clean UI layout for a restaurant including
 - CSS3
 - JavaScript
 
-##  Project Structure
-
-restaurant-web-design/
-│── index.html  
-│── style.css  
-│── script.js  
-│── images/  
-│── README.md  
 
 ##  Purpose of Project
 
